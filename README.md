@@ -24,12 +24,12 @@ A list of useful programming terms in chinese
 | Character | 字符 | zì fú | 字符串 (string) |
 | Class | 类 | lèi | 类方法 (class method) |
 | Client | 客户 | kè hù | 客户服务器模式 (client-server model), 客户端 (client side), 客户端库 (client side library) |
-| Cloud | 云 | yún | 云计算 (cloud computing) |
 | Cluster | 集群 | jí qún | - |
 | Code | 代码 | dài mǎ | 代码混淆 (code obfuscation), 代码覆盖率 (code coverage), 代码生成 (code generation), 源代码 (source code) |
 | Combine | 合 | hé | 组合数学 (combinatorics), 合并 (merge), 衍合 (rebase) |
 | Command | 命令 | mìng lìng | 命令行界面 (command line interface) |
 | Commit | 提交 | tí jiāo | 提交历史 (commit history) |
+| Compute | 计算 | jì suàn | 云计算 (cloud computing), 计算机视觉 (computer vision) |
 | Concurrency | 并发 | bìng fā | 并发编程 (concurrent programming) |
 | Configure | 配置 | pèi zhì | - |
 | Connection | 连接 | lián jiē | 连接池 (connection pool) |
