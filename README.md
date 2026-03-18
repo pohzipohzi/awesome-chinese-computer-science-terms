@@ -36,13 +36,13 @@ A list of useful programming terms in chinese
 | Consistent | 一致 | yī zhì | 一致性 (consistency), 最终一致性 (eventual consistency) |
 | Container | 容器 | róng qì | - |
 | Coordinate | 坐标 | zuò biāo | - |
-| Data | 数据 | shù jù | 数据结构 (data structure), 数据类型 (data type), 数据科学家 (data scientist), 数据模型 (data model), 数据映射 (data mapping), 脏数据 (dirty data), 数据分析 (data analytics), 大数据 (big data) |
+| Data | 数据 | shù jù | 数据结构 (data structure), 数据类型 (data type), 数据科学家 (data scientist), 数据映射 (data mapping), 脏数据 (dirty data), 数据分析 (data analytics), 大数据 (big data) |
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database), 数据库事务 (database transaction) |
 | Debug | 调试 | tiáo shì | - |
 | Definition | 定义 | dìng yì | - |
 | Depend | 依赖 | yī lài | 依赖性 (dependence), 依赖注入 (dependency injection) |
 | Deploy | 部署 | bù shǔ | 部署程序包 (deployment package), 蓝绿部署 (blue-green deployment), 金丝雀部署 (canary deployment) |
-| Documentation | 文档 | wén dàng | 文档对象模型 (document object model) |
+| Documentation | 文档 | wén dàng | - |
 | Dynamic | 动态 | dòng tài | 动态规划 (dynamic programming) |
 | Encapsulate | 封装 | fēng zhuāng | 封装性 (encapsulation) |
 | Encryption | 加密 | jiā mì | 强加密 (strong encryption), 对称加密 (symmetric encryption), 非对称加密 (asymmetric encryption) |
@@ -80,11 +80,12 @@ A list of useful programming terms in chinese
 | Maintain | 维护 | wéi hù | - |
 | Memory | 记忆体 | jì yì tǐ | 随机存取记忆体 (random access memory), 唯读记忆体 (read-only memory) |
 | Method | 方法 | fāng fǎ | 暴力方法 (brute force method) |
+| Model | 模型 | mó xíng | 数据模型 (data model), 大语言模型 (large language model), 世界模型 (world model) |
 | Modulo | 模 | mó | - |
 | Monitor | 监控 | jiān kòng | 监控系统 (monitoring system) |
 | Net | 网 | wǎng | 互联网 (internet), 网络 (network), 网络分区 (network partition), 神经网络 (neural network) |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
-| Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
+| Object | 对象 | duì xiàng | 文档对象模型 (document object model), 面向对象程序设计 (object-oriented programming) |
 | Online | 上线 | shàng xiàn | - |
 | Optimize | 优化 | yōu huà | - |
 | Option | 选项 | xuǎn xiàng | - |
