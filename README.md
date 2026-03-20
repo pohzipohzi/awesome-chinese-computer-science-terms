@@ -36,7 +36,7 @@
 | Coordinate | 坐标 | zuò biāo | - |
 | Data | 数据 | shù jù | 数据结构 (data structure), 数据类型 (data type), 数据科学家 (data scientist), 数据映射 (data mapping), 脏数据 (dirty data), 数据分析 (data analytics), 大数据 (big data) |
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database), 数据库事务 (database transaction) |
-| Debug | 调试 | tiáo shì | - |
+| Debug | 调试 | tiáo shì | 调试器 (debugger) |
 | Definition | 定义 | dìng yì | - |
 | Depend | 依赖 | yī lài | 依赖性 (dependence), 依赖注入 (dependency injection) |
 | Deploy | 部署 | bù shǔ | 部署程序包 (deployment package), 蓝绿部署 (blue-green deployment), 金丝雀部署 (canary deployment) |
