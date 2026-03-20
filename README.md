@@ -1,6 +1,4 @@
-# Awesome Chinese Programming Terms
-
-A list of useful programming terms in chinese
+# Awesome Chinese Computer Science Terms
 
 | Term | Chinese | Pinyin | Usage |
 | - | - | - | - |
