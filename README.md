@@ -1,5 +1,3 @@
-# Awesome Chinese Computer Science Terms
-
 | Term | Chinese | Pinyin | Usage |
 | - | - | - | - |
 | -ary | 进制 | jìn zhì | 二进制 (binary), 十进制 (decimal), 十六进制 (hexadecimal) |
