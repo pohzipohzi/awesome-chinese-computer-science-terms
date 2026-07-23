@@ -83,7 +83,7 @@
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
 | Object | 对象 | duì xiàng | 文档对象模型 (document object model), 面向对象程序设计 (object-oriented programming) |
 | Online | 上线 | shàng xiàn | - |
-| Optimize | 优化 | yōu huà | - |
+| Optimize | 优化 | yōu huà | 优化器 (optimizer) |
 | Option | 选项 | xuǎn xiàng | - |
 | Output | 输出 | shū chū | 输出文件 (output file) |
 | Package/Packet | 包 | bāo | 丢包 (packet loss) |
